@@ -2,8 +2,8 @@
 
 Algumas informações sobre mim:
 
-- Bolsista IC no **Laboratório de Humanidades Digitais** da Universidade Federal da Bahia (LABHD-UFBA)
-- Cursando segundo semestre de Ciências Sociais
+- Bolsista IC no **Laboratório de Humanidades Digitais** ([LABHDUFBA](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.labhd.ufba.br/&ved=2ahUKEwit6r-MpKKGAxUBqZUCHWSdCIkQFnoECBMQAQ&usg=AOvVaw2nQk5YH_WgD74kk0T291Gc)) da Universidade Federal da Bahia
+- Cursando o segundo semestre de Ciências Sociais
 - <p>Scripts em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio Logo" style="vertical-align: middle; height: 20px; width: 30px;"> para Manipulação de dados</p>
 - <p>Scripts em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio Logo" style="vertical-align: middle; height: 20px; width: 30px;"> para visualização de gráficos</p>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch Logo" style="vertical-align: middle; height: 20px; width: 30px;"> ElasticSearch para análise multi-método de pesquisa</p>
