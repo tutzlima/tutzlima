@@ -2,7 +2,7 @@
 
 Some information about me:
 
-- IC Scholar at the Laboratório de Humanidades Digitais (LABHDUFBA) at the Federal University of Bahia.
+- IC Scholar at the Digital Humanities laboratory (LABHDUFBA) at the Federal University of Bahia.
 
 - Currently in the second semester of Social Sciences.
 
