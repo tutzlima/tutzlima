@@ -24,7 +24,7 @@ Some information about me:
 <p></p>
 <div>
   <p>&nbsp;</p> <!-- Space -->
-  <p>If you would like more informations about me, you can acess my <a href="https://lattes.cnpq.br/2709096118053654" target="_blank">Lattes CV</a> or contact me via:</p>
+  <p>If you would like more informations about me, you can access my <a href="https://lattes.cnpq.br/2709096118053654" target="_blank">Lattes CV</a> or contact me via:</p>
 
 <a href="mailto:arthurlimareserva@gmail.com" style="float: left; margin-right: 10px;"> <!-- Gmail -->
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
