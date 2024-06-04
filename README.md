@@ -24,7 +24,7 @@ Some information about me:
 <p></p>
 <div>
   <p>&nbsp;</p> <!-- Space -->
-  <p>If you wish to contact me:</p>
+  <p>If you would like more informations about me, you can acess my <a href="https://lattes.cnpq.br/2709096118053654" target="_blank">Lattes CV</a> or contact me via:</p>
 
 <a href="mailto:arthurlimareserva@gmail.com" style="float: left; margin-right: 10px;"> <!-- Gmail -->
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
@@ -34,6 +34,4 @@ Some information about me:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
 </a>
 
-<a href="https://youtube.com/@tutzlima?si=bOIhAObWDABOSDTE" target="_blank" style="float: left;"> <!-- Youtube -->
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
 </div>
