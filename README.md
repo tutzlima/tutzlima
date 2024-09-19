@@ -1,25 +1,28 @@
-# Hello, i'm Arthur!
+# Hello, i'm **Arthur**!
 
 Some information about me:
 
-- IC Scholar at the Digital Humanities laboratory (LABHDUFBA) at the Federal University of Bahia.
+- Currently in the third semester of Social Sciences
 
-- Currently in the second semester of Social Sciences.
+- I'm an IC Scholar at the [Digital Humanities Laboratory (LABHDUFBA) at the Federal University of Bahia](https://labhdufba.github.io/)
 
-- Scripts in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio Logo" style="vertical-align: middle; height: 20px; width: 30px;"> for Data Manipulation.
+- Scripts in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R Logo" style="vertical-align: middle; height: 20px; width: 30px;"> for
 
-- Scripts in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio Logo" style="vertical-align: middle; height: 20px; width: 30px;"> for Graph Visualization.
+  - **Data Manipulation**
+  - **Data Visualization**
+  - Learning **Web Scraping** <br>using `rvest` and *text as data*
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch Logo" style="vertical-align: middle; height: 20px; width: 30px;"> ElasticSearch for multi-method research analysis.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch Logo" style="vertical-align: middle; height: 20px; width: 30px;"> ElasticSearch for multi-method research analysis
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="Kibana Logo" style="vertical-align: middle; height: 20px; width: 30px;">Kibana for data visualization
 
 <p></p>
 <p>&nbsp;</p>
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/tutzlima"> </a>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true"/>
-<p>&nbsp;</p>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true"/>
+<img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true"/>
+<img align="center" height="250em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true"/>
 </div>
 <p></p>
 <div>
