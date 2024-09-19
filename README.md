@@ -21,8 +21,8 @@ Some information about me:
 <div align="center">
 
 <a href="https://github.com/tutzlima"> </a>
-<img align="center" height="210em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true"/>
-<img align="center" height="210em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true"/>
+<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true"/>
+<img align="center" height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true"/>
 </div>
 <p></p>
 <div>
