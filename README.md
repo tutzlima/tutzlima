@@ -33,8 +33,4 @@ Some information about me:
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
 
-<a href="https://www.instagram.com/tutzlima" target="_blank" style="float: left; margin-right: 10px;"> <!-- Instagram -->
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-</a>
-
 </div>
