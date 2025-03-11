@@ -2,7 +2,7 @@
 
 <div style="text-align: justify;">
   
-- Currently in my fourth semester of Social Sciences <a href="https://openclipart.org/image/800px/290782"><img src="https://openclipart.org/image/800px/290782" alt="By worker" style="width: 25px;"></a>
+- Currently in my fourth semester of Social Sciences <a href="https://openclipart.org/image/800px/290782"><img src="https://openclipart.org/image/800px/290782" alt="By worker" style="width: 20px;"></a>
   
 - I'm an Undergraduate Research Scholar at the [Digital Humanities Laboratory at the Federal University of Bahia (LABHDUFBA)](https://labhdufba.github.io/)
   
@@ -30,10 +30,7 @@
   
 <summary>View</summary><br>
   
-<p><img src="https://komarev.com/ghpvc/?username=tutzlima&color=blueviolet" alt="tutzlima" style="padding: 4px; margin: 0px;"/>
-  <span style="position: relative; top: -6px;">😭</span>
-  
-</p>
+<p><img src="https://komarev.com/ghpvc/?username=tutzlima&color=blueviolet&style=flat-square&abbreviated=true" alt="tutzlima" style="padding: 4px; margin: 0px;"/><span style="position: relative; top: -6px;"> 😭</span></p>
   
 <p style="font-size: 12px; padding-bottom: 0px;"><em>Don't believe it...</em></p>
   
