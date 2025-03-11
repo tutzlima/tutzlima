@@ -17,9 +17,9 @@
   
   - 🎲 **_<abbr title="ggplot2, gridExtra and geobr" style="text-decoration: none;">Data Visualization</abbr>_**
   
-  - <a href="https://www.flaticon.com/free-icon/web-crawler_11892629" alt="By Hopstarter"><img src="https://cdn-icons-png.flaticon.com/512/11892/11892629.png" style="width: 1.3em"/></a> **_<abbr title="RSelenium and rvest" style="text-decoration: none;">Web Scraping</abbr>_**
+  - <a href="https://www.flaticon.com/free-icon/web-crawler_11892629" alt="By Hopstarter"><img src="https://cdn-icons-png.flaticon.com/512/11892/11892629.png" style="width: 20px"/></a> **_<abbr title="RSelenium and rvest" style="text-decoration: none;">Web Scraping</abbr>_**
   
-  - <a href="https://www.flaticon.com/free-icon/text-mining_9422790" alt="By Freepik"><img src="https://cdn-icons-png.flaticon.com/512/9422/9422790.png" style="width: 1.3em; margin-left: 3px;"/></a> **_<abbr title="tm and tidytext, a beginner in text analysis" style="text-decoration: none;">Text as Data</abbr>_**
+  - <a href="https://www.flaticon.com/free-icon/text-mining_9422790" alt="By Freepik"><img src="https://cdn-icons-png.flaticon.com/512/9422/9422790.png" style="width: 18px; margin-left: 3px;"/></a> **_<abbr title="tm and tidytext, a beginner in text analysis" style="text-decoration: none;">Text as Data</abbr>_**
   
 </div>
   
@@ -36,16 +36,12 @@
   
 </p>
   
-<div>
-  
 <p style="font-size: 12px; padding-bottom: 0px;"><em>Don't believe it...</em>
   
 <img height="200em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true" style="padding: 0px 0px 4px 0px; margin: 0px;"/>
   
 <p style="font-size: 12px; padding-bottom: 0px;"><em>Neither this...</em>
   <!-- Não parece que as "bordas" estão alinhadas, por isso da div -->
-  
-</div>
   
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true" style="padding: 4px 0px; margin: 0px;"/>
   
@@ -73,13 +69,13 @@
   
 >[![ides-1](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
   
->[![ides-1](https://skillicons.dev/icons?i=docker,vscode)](https://skillicons.dev)<br><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="width: 3em; margin-right: 6.5px; padding: 0px;"/></a>[![ides-1](https://skillicons.dev/icons?i=qt)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width: 3em; margin-left: 2.5px; padding: 0px;"/>
+>[![ides-1](https://skillicons.dev/icons?i=docker,vscode)](https://skillicons.dev)<br><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="width: 3em; margin-right: 6.5px; padding: 0px;"/></a> [![ides-1](https://skillicons.dev/icons?i=qt)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width: 3em; margin-left: 2.5px; padding: 0px;"/>
 
 <!-- Outros programas -->
 
 - *Other programs I dabble in*
   
-><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 2.6em; margin-left: 6.5px; padding: 0px;"/><a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 2.6em; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
+><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; margin-left: 6.5px; padding: 0px;"/><a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
   
 </details>
   
@@ -92,7 +88,7 @@
 If you would like more information about me, check out my <a href="https://lattes.cnpq.br/2709096118053654" target="_blank">Lattes CV</a> or contact me via Gmail
 <span style="position: relative; top: 5px;">
 <a href="mailto:arthurlimareserva@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 1.8em;"/>
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 20px;"/>
 </a>
 </span>
     or send me a message on GitHub!
