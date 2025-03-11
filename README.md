@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hello, I'm Arthur!</h1>
-  
-<div  style="text-align: justify;">
+
+<div style="text-align: justify;">
   
 - Currently in my fourth semester of Social Sciences <a href="https://openclipart.org/image/800px/290782"><img src="https://openclipart.org/image/800px/290782" alt="By worker" style="width: 25px;"></a>
   
@@ -69,13 +69,13 @@
   
 >[![ides-1](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
   
->[![ides-1](https://skillicons.dev/icons?i=docker,vscode)](https://skillicons.dev)<br><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="width: 3em; margin-right: 6.5px; padding: 0px;"/></a> [![ides-1](https://skillicons.dev/icons?i=qt)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width: 3em; margin-left: 2.5px; padding: 0px;"/>
+>[![ides-1](https://skillicons.dev/icons?i=docker,vscode)](https://skillicons.dev)<br><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="width: 3em; margin-right: 6.5px; padding: 0px;"/></a>&nbsp;[![ides-1](https://skillicons.dev/icons?i=qt)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width: 3em; margin-left: 2.5px; padding: 0px;"/>
 
 <!-- Outros programas -->
 
 - *Other programs I dabble in*
   
-><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; margin-left: 6.5px; padding: 0px;"/><a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
+><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; margin-left: 6.5px; padding: 0px;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
   
 </details>
   
@@ -85,9 +85,9 @@
   
 <p style="text-align: justify">
   
-If you would like more information about me, check out my <a href="https://lattes.cnpq.br/2709096118053654" target="_blank">Lattes CV</a> or contact me via Gmail
+If you would like more information about me, check out my <a href="https://lattes.cnpq.br/2709096118053654" target="_blank">Lattes CV</a>, contact me via Gmail
 <a href="mailto:arthurlimareserva@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 20px;"/></a>or send me a message on GitHub!
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 20px;"/></a> or send me a message on GitHub!
 
 </p>
   
