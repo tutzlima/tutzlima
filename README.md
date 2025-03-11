@@ -32,16 +32,17 @@
 <summary>View</summary><br>
   
 <p><img src="https://komarev.com/ghpvc/?username=tutzlima&color=blueviolet" alt="tutzlima" style="padding: 4px; margin: 0px;"/>
-  <span style="position: relative; top: -9px;">😭</span>
+  <span style="position: relative; top: -6px;">😭</span>
   
 </p>
   
-<p style="font-size: 12px; padding-bottom: 0px;"><em>Don't believe it...</em>
+<p style="font-size: 12px; padding-bottom: 0px;"><em>Don't believe it...</em></p>
   
 <img height="200em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true" style="padding: 0px 0px 4px 0px; margin: 0px;"/>
   
-<p style="font-size: 12px; padding-bottom: 0px;"><em>Neither this...</em>
-  <!-- Não parece que as "bordas" estão alinhadas, por isso da div -->
+<p style="font-size: 12px; padding-bottom: 0px;"><em>Neither this...</em></p>
+
+<!-- Não parece que as "bordas" estão alinhadas, por isso da div -->
   
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true" style="padding: 4px 0px; margin: 0px;"/>
   
@@ -75,7 +76,7 @@
 
 - *Other programs I dabble in*
   
-><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; margin-left: 6.5px; padding: 0px;"/><a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
+><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; margin-left: 6.5px; padding: 0px;"/> <a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
   
 </details>
   
