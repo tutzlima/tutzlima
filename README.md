@@ -1,3 +1,7 @@
+<kbd><code>rebane2001 - GitHub                            _ □ ×</code><h2>hi there!!1</h2><h3>welcome to my epic github profile</h3>While you're here, why not take a quick quiz<br>to find out who is your favorite pony?
+
+https://github.com/rebane2001/rebane2001/edit/mane/README.md
+
 <h1 style="text-align: center;">Hello, I'm Arthur!</h1>
 
 <div style="text-align: justify;">
@@ -23,26 +27,45 @@
 </div>
   
 ---
-  
-<h2 style="border-bottom: none;">Some Stats</h2>
-  
-<details>
-  
-<summary>View</summary><br>
-  
-<p><img src="https://komarev.com/ghpvc/?username=tutzlima&color=blueviolet&style=flat-square&abbreviated=true" alt="tutzlima" style="padding: 4px; margin: 0px;"/><span style="position: relative; top: -6px;"> 😭</span></p>
-  
-<p style="font-size: 12px; padding-bottom: 0px;"><em>Don't believe it...</em></p>
-  
-<img height="200em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&theme=github_dark&show_icons=true" style="padding: 0px 0px 4px 0px; margin: 0px;"/>
-  
-<p style="font-size: 12px; padding-bottom: 0px;"><em>Neither this...</em></p>
 
-<!-- Não parece que as "bordas" estão alinhadas, por isso da div -->
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=tutzlima&theme=github_dark&show_icons=true" style="padding: 4px 0px; margin: 0px;"/>
-  
-</details>
+<h2 style="display: none;">Some Stats</h2>
+
+<br>
+
+<div>
+
+  <img src="https://komarev.com/ghpvc/?username=tutzlima&color=blueviolet&style=for-the-badge&&label=NOSY+PARKERS&abbreviated=true" alt="tutzlima" style="margin: 0px;"/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tutzlima&show_icons=true&locale=en"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tutzlima&show_icons=true&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tutzlima&show_icons=true&locale=en" alt="tuzlima's GitHub stats"/>
+</picture>
+
+<!--
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tutzlima&repo=PyOurSongs)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&show_icons=true&locale=en"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&show_icons=true&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutzlima&show_icons=true&locale=en" alt="tuzlima's GitHub stats"/>
+</picture>
+
+-->
+</div>
   
 ---
   
@@ -55,25 +78,60 @@
 <!-- Linguagens -->
   
 - *Languages I use the most and am learning*
-  
->[![My Skills](https://skillicons.dev/icons?i=r,cpp,py,html,css,bash,git,github,md,vim&perline=5)](https://skillicons.dev)
-  
-<p style="font-size: 12px"><em>Markdown, HTML, CSS, Git, and GitHub are not programming languages</em> 😡<span style="font-size: 10px; position: relative; top: -5px;">💢</span><br>Yeah, I know, you know, everybody knows.<br>Calm down, Mr. Robot 🤓☝, I'll keep them here💞</p>
+
+<blockquote>
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=r,py)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,bash,md,vim)](https://skillicons.dev)
+
+<br>
+
+</blockquote>
+
+<br>
+
+<p style="font-size: 12px"><em>Markdown, <a href="https://github.com/rebane2001/css-clicker">HTML, CSS</a>, Git, and GitHub are not programming languages</em> 😡<span style="font-size: 10px; position: relative; top: -5px;">💢</span><br>Yeah, ok, you know, everybody knows — I'll keep them here 💞</p>
 
 <!-- Plataformas/IDE's -->
 
 - *Platforms/IDEs I use the most and am learning*
-  
->[![ides-1](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
-  
->[![ides-1](https://skillicons.dev/icons?i=docker,vscode)](https://skillicons.dev)<br><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="width: 3em; margin-right: 6.5px; padding: 0px;"/></a>&nbsp;[![ides-1](https://skillicons.dev/icons?i=qt)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width: 3em; margin-left: 2.5px; padding: 0px;"/>
+
+<blockquote>
+
+<br>
+
+[![ides-1](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+
+[![ides-1](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="width: 3em;
+margin-left: 12.5px; margin-right: 10.5px; padding: 0px;"/></a>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" style="width: 3em; margin-right: 8.5px; padding: 0px;"/>
+[![ides-1](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+<br>
+
+</blockquote>
+
+<br>
 
 <!-- Outros programas -->
 
 - *Other programs I dabble in*
-  
-><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; margin-left: 6.5px; padding: 0px;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 6.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
-  
+
+<blockquote>
+
+<br>
+
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" style="width: 45px; padding: 0px;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"><img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" style="width: 40px; margin-left: 5.5px; padding: 0px;"/></a><br>[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
+
+<br>
+
+</blockquote>
+
 </details>
   
 ---
