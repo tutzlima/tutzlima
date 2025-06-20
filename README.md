@@ -1,7 +1,3 @@
-<kbd><code>rebane2001 - GitHub                            _ □ ×</code><h2>hi there!!1</h2><h3>welcome to my epic github profile</h3>While you're here, why not take a quick quiz<br>to find out who is your favorite pony?
-
-https://github.com/rebane2001/rebane2001/edit/mane/README.md
-
 <h1 style="text-align: center;">Hello, I'm Arthur!</h1>
 
 <div style="text-align: justify;">
